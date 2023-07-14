@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(216, 245, 229);
+}
+
+.sritha{
+    text-align: center;
+    font-size: 65px;
+    font-weight: 200;
+    color: rgba(131, 65, 131, 0.966);
+    border: 5px solid;
+    border-radius: 50%;
+}
+
+.nice{
+    text-align: center;
+    font-size: large;
+}
+
+.ammu{
+    text-align: center;
+    font-size: medium;
+
+}
+
